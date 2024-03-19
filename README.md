@@ -1,4 +1,4 @@
-## Codebook content 
+## Codebook Content 
    - The first part is dedicated to reading JSON files, retrieving dictionary values, organizing them into a dataframe, and checking for data quality issues associated with each tables.
    - The second part involves queries and answers to business questions.
    - SQL dialect is SQLite 3
@@ -14,7 +14,7 @@
  ### Users Table
    - There are missing values in the lastLogin, signUpSource, state, and scan_ym columns.
    - Within the users table, 283 users are duplicated among the 495 data points.
-## Communicate with stakeholders
+## Communicate with Stakeholders
  ### Questions about the data
    - What does the cpg value in the brands table represent?
    - Overall, why are there so many missing values?
