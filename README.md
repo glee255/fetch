@@ -33,8 +33,8 @@
  ### Performance and scaling concerns
    - Establish clear data governance policies that define data quality standards and ownership responsibilities. This framework supports a culture of quality and accountability.
    - I will support the person who is responsible of data governance policies to define data quality standards.
-## [Summary] Answer to Business Questions
- ### Business questions - TOP 5 brands
+## [Summary] Answers to Business Questions
+ ### TOP 5 brands
  - What are the top 5 brands by receipts scanned for most recent month?
    - The most recent month in the receipts table is March, 2021.
    - However, due to missing barcode values in receipt table or non listed barcode values in the brand table, most of them have null values. Receipts scanned in Jan, 2021 partially contain brand name values.
@@ -46,14 +46,14 @@
     3. Cracker Barrel Cheese
     4. Prego
     5. Diet Chris Cola
- ### Business Questions - Spending and items purchased by rewardsReceiptStatus
+ ### Average spending and and total items purchased by rewardsReceiptStatus
  - When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
    - First of all, there is no value named 'Accepted'.
    - If comparing with 'Finished' status, average spending is 913 dollars which is approx. 34 times higher than 'Rejected' average spending of 27 dollars. (Assuming spending in 1 dollar unit.)
    - When considering total number of items purchased from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
    - If comparing with 'Finished' status, total number of items purchased is 491,828 which is approx. 1,927 times higher than 'Rejected' total number of items purchased of 255.
 
- ### Business Questions - Most recent users spending and transactions**
+ ### Most recent users spending and transactions
  - Which brand has the most spend among users who were created within the past 6 months?
    - Tostitos has the most spending of 15,785 dollars among users who were created within the past 6 months.
    - Which brand has the most transactions among users who were created within the past 6 months?
