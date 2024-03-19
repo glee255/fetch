@@ -2,7 +2,7 @@
    - The first part is dedicated to reading JSON files, retrieving dictionary values, organizing them into a dataframe, and checking for data quality issues associated with each tables.
    - The second part involves queries and answers to business questions.
    - SQL dialect is SQLite 3
-## Data Quality Issue Summary
+## [Summary] Data Quality Issue 
  ### Brands Table
    - There are too many missing values in the category, categoryCode, topBrand, and brandCode columns.
    - categoryCode appears to contain text values instead of categorical values and is almost identical to the category values, which increases redundancy.
