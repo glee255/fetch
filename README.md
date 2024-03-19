@@ -41,11 +41,11 @@
   
  - How does the ranking of the top 5 brands by receipts scanned for the recent month compare to the ranking for the previous month?
    - Top 5 brands for Jan 2021 are as below (containing name values)
-     1. Tostitos
-     2. Swanson
-     3. Cracker Barrel Cheese
-     4. Prego
-     5. Diet Chris Cola
+   1. Tostitos
+   2. Swanson
+   3. Cracker Barrel Cheese
+   4. Prego
+   5. Diet Chris Cola
  ### Average spending and and total items purchased by rewardsReceiptStatus
  - When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
    - First of all, there is no value named 'Accepted'.
