@@ -16,9 +16,7 @@
    - Within the users table, 283 users are duplicated among the 495 data points.
 ## Communicate with Stakeholders
  ### Questions about the data
-   - What does the cpg value in the brands table represent?
-   - Overall, why are there so many missing values?
-   - Why does the rewardsReceiptItemList column in the receipts table contain a large chunk of dictionaries? Why is it formatted this way
+   - Good evening manager, I found data quality issues across three tables which mainly involves missing values, multiple values in one cell, and inconsistent values. Before I jump into technical parts, I need more business information regards to reward operation and brand/product hierarchy. Please refer to the full context below and I would appreciate a short meeting to gather information aboout reward operation and brand/product hierachy. Thank you. 
  ### How I found data quality issues
    - I checked for 1) missing values, 2) inconsistent values, 3) irrelevant columns to drop, and 4) duplicates in every table.
  ### What I need to know to solve data quality issues
