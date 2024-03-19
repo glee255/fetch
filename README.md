@@ -40,7 +40,7 @@
    - However, due to missing barcode values in receipt table or non listed barcode values in the brand table, most of them have null values. Receipts scanned in Jan, 2021 partially contain brand name values.
   
  - How does the ranking of the top 5 brands by receipts scanned for the recent month compare to the ranking for the previous month?
-   - Top 5 brands for Jan 2021 are as below (containing name values)
+   - Top 5 brands for Jan 2021 are as below (ones with name values)
    1. Tostitos
    2. Swanson
    3. Cracker Barrel Cheese
